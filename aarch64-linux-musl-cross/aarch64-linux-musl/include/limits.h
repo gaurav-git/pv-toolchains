@@ -41,9 +41,7 @@
 
 #define PIPE_BUF 4096
 #define FILESIZEBITS 64
-#ifndef NAME_MAX
 #define NAME_MAX 255
-#endif
 #define PATH_MAX 4096
 #define NGROUPS_MAX 32
 #define ARG_MAX 131072

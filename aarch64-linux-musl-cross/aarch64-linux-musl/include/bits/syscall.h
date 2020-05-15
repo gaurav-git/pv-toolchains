@@ -287,8 +287,6 @@
 #define __NR_fsconfig		431
 #define __NR_fsmount		432
 #define __NR_fspick		433
-#define __NR_pidfd_open		434
-#define __NR_clone3		435
 
 #define SYS_io_setup 0
 #define SYS_io_destroy 1
@@ -579,5 +577,3 @@
 #define SYS_fsconfig		431
 #define SYS_fsmount		432
 #define SYS_fspick		433
-#define SYS_pidfd_open		434
-#define SYS_clone3		435
